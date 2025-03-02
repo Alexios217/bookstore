@@ -1,4 +1,4 @@
-# bookstore-project
+# bookstore
 An online bookstore.
 
 # 📚 Bookstore Project
